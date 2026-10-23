@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" width="200" height="120" role="img" aria-label="origami">
+<g transform="translate(4 4) scale(1.0)">
+  <polygon points="6.0,86.0 34.0,18.0 34.0,38.0 6.0,106.0" fill="#2CD1D9" stroke="#2CD1D9" stroke-width="0.6" stroke-linejoin="round"/>
+  <polygon points="34.0,18.0 62.0,50.0 62.0,70.0 34.0,38.0" fill="#2C75A3" stroke="#2C75A3" stroke-width="0.6" stroke-linejoin="round"/>
+  <polygon points="62.0,50.0 88.0,70.0 88.0,90.0 62.0,70.0" fill="#4873DE" stroke="#4873DE" stroke-width="0.6" stroke-linejoin="round"/>
+  <polygon points="88.0,70.0 104.0,76.0 104.0,96.0 88.0,90.0" fill="#5A5DF0" stroke="#5A5DF0" stroke-width="0.6" stroke-linejoin="round"/>
+  <polygon points="104.0,76.0 132.0,18.0 132.0,38.0 104.0,96.0" fill="#9E91F6" stroke="#9E91F6" stroke-width="0.6" stroke-linejoin="round"/>
+  <polygon points="132.0,18.0 160.0,50.0 160.0,70.0 132.0,38.0" fill="#672DF1" stroke="#672DF1" stroke-width="0.6" stroke-linejoin="round"/>
+  <polygon points="160.0,50.0 186.0,70.0 186.0,90.0 160.0,70.0" fill="#984EF6" stroke="#984EF6" stroke-width="0.6" stroke-linejoin="round"/>
+  <polygon points="34.0,18.0 34.0,38.0 41.0,42.0" fill="#175263" stroke="#175263" stroke-width="0.6" stroke-linejoin="round"/>
+  <polygon points="132.0,18.0 132.0,38.0 139.0,42.0" fill="#390FD3" stroke="#390FD3" stroke-width="0.6" stroke-linejoin="round"/>
+</g>
+</svg>
