@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/logo-dark.svg">
-    <img src="docs/logo-light.svg" alt="origami" width="340">
+    <img src="docs/logo.svg" alt="origami" width="300">
   </picture>
 </p>
 
