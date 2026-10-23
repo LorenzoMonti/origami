@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "origami-astro"
-version = "0.1.0"
+version = "0.1.1"
 authors = [{ name = "Lorenzo Monti", email = "lorenzomonti42@gmail.com" }]
 description = "Fold, embed, probe: compare foundation-model embeddings, hand-crafted and catalogue features of astronomical light curves."
 readme = "README.md"
@@ -23,6 +23,9 @@ dependencies = [
 
 classifiers = [
     "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Science/Research",
     "Operating System :: OS Independent",

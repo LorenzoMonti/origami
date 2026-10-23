@@ -5,6 +5,13 @@
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://pypi.org/project/origami-astro/"><img src="https://img.shields.io/pypi/v/origami-astro" alt="PyPI version"></a>
+  <a href="https://pypi.org/project/origami-astro/"><img src="https://img.shields.io/pypi/pyversions/origami-astro" alt="Python versions"></a>
+  <a href="https://github.com/LorenzoMonti/origami/actions/workflows/ci.yml"><img src="https://github.com/LorenzoMonti/origami/actions/workflows/ci.yml/badge.svg" alt="tests"></a>
+  <a href="https://github.com/LorenzoMonti/origami/blob/main/LICENSE"><img src="https://img.shields.io/pypi/l/origami-astro" alt="License: MIT"></a>
+</p>
+
 <p align="center"><b>Fold, embed, probe.</b><br>
 Compare foundation-model embeddings, hand-crafted features and catalogue columns
 of astronomical light curves, under identical conditions.</p>
@@ -349,5 +356,6 @@ Add a test in `tests/test_model_<name>.py` that checks:
 `origami` is released under the [MIT licence](https://github.com/LorenzoMonti/origami/blob/main/LICENSE). Model weights are downloaded from
 their original sources and keep their own licences (see [Models](#models)).
 
-If you use `origami` in your work, please cite this repository and the papers of the
-models you use.
+If you use `origami` in your work, please cite it (GitHub's *Cite this repository* button
+uses [`CITATION.cff`](https://github.com/LorenzoMonti/origami/blob/main/CITATION.cff)) and
+the papers of the models you use.

@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use origami, please cite it using the metadata below, and cite the papers of the models you use."
+type: software
+title: "origami: compare foundation-model embeddings, hand-crafted and catalogue features of astronomical light curves"
+abstract: >-
+  origami compares representations of astronomical light curves under identical
+  conditions: embeddings from frozen time-series foundation models, hand-crafted
+  features and catalogue columns, evaluated on the same objects, epochs, folds
+  and probes, for regression, classification, clustering and anomaly detection.
+authors:
+  - family-names: Monti
+    given-names: Lorenzo
+    affiliation: "INAF – Osservatorio di Astrofisica e Scienza dello Spazio di Bologna"
+version: 0.1.1
+date-released: 2026-10-23
+license: MIT
+repository-code: "https://github.com/LorenzoMonti/origami"
+url: "https://pypi.org/project/origami-astro/"
+keywords:
+  - astronomy
+  - light curves
+  - time series
+  - foundation models
+  - embeddings
+  - benchmark
