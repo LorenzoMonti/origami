@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/logo-dark.svg">
-    <img src="docs/logo.svg" alt="origami" width="300">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LorenzoMonti/origami/main/docs/logo-dark.svg">
+    <img src="https://raw.githubusercontent.com/LorenzoMonti/origami/main/docs/logo.svg" alt="origami" width="300">
   </picture>
 </p>
 
@@ -346,7 +346,7 @@ Add a test in `tests/test_model_<name>.py` that checks:
 
 ## Licence
 
-`origami` is released under the [MIT licence](LICENSE). Model weights are downloaded from
+`origami` is released under the [MIT licence](https://github.com/LorenzoMonti/origami/blob/main/LICENSE). Model weights are downloaded from
 their original sources and keep their own licences (see [Models](#models)).
 
 If you use `origami` in your work, please cite this repository and the papers of the

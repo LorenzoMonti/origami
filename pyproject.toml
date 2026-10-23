@@ -1,14 +1,16 @@
 [build-system]
-requires = ["setuptools>=61", "wheel"]
+requires = ["setuptools>=77"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "origami-astro"
-version = "0.0.1"
+version = "0.1.0"
 authors = [{ name = "Lorenzo Monti", email = "lorenzomonti42@gmail.com" }]
 description = "Fold, embed, probe: compare foundation-model embeddings, hand-crafted and catalogue features of astronomical light curves."
 readme = "README.md"
+keywords = ["astronomy", "light curves", "time series", "foundation models", "embeddings", "benchmark"]
 license = "MIT"
+license-files = ["LICENSE"]
 requires-python = ">=3.10"
 dependencies = [
     "numpy>=1.22",
@@ -21,6 +23,8 @@ dependencies = [
 
 classifiers = [
     "Programming Language :: Python :: 3",
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
     "Operating System :: OS Independent",
     "Topic :: Scientific/Engineering :: Astronomy",
     "Topic :: Scientific/Engineering :: Artificial Intelligence",
@@ -31,7 +35,8 @@ origami = "origami.cli:main"
 
 [project.urls]
 Repository = "https://github.com/LorenzoMonti/origami.git"
-BugTracker = "https://github.com/LorenzoMonti/origami/issues"
+Documentation = "https://github.com/LorenzoMonti/origami#readme"
+Issues = "https://github.com/LorenzoMonti/origami/issues"
 
 # Model families have conflicting pins; see README "Environments" for which extras can share one.
 [project.optional-dependencies]
